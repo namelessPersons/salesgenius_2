@@ -1,0 +1,21 @@
+{
+  "name": "salesgenius",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "13.5.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "dotenv": "10.0.0",
+    "openai": "4.27.0",
+    "azure-storage-blob": "12.19.0",
+    "@azure/search-documents": "11.3.0"
+  },
+  "devDependencies": {
+    "typescript": "5.4.0"
+  }
+}
